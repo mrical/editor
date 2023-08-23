@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="-46 370.9 518.1 147" enable-background="new -46 370.9 518.1 147" xml:space="preserve">
+<g>
+	
+		<image overflow="visible" opacity="0.3" width="531" height="151" xlink:href="CEBA1E83.png"  transform="matrix(1 0 0 1 -45 368)">
+	</image>
+	<g>
+		<g>
+			<defs>
+				<path id="SVGID_1_" d="M439.6,378.9H-6.8c-14.9,0-28,10.2-28,23.2v72.6c0,13,13.1,24.2,28,24.2h446.3
+					c14.9,0,26.2-11.1,26.2-24.2v-72.6C465.8,389,454.5,378.9,439.6,378.9L439.6,378.9z"/>
+			</defs>
+			<clipPath id="SVGID_2_">
+				<use xlink:href="#SVGID_1_"  overflow="visible"/>
+			</clipPath>
+		</g>
+		<g>
+			<defs>
+				<path id="SVGID_3_" d="M439.6,378.9H-6.8c-14.9,0-28,10.2-28,23.2v72.6c0,13,13.1,24.2,28,24.2h446.3
+					c14.9,0,26.2-11.1,26.2-24.2v-72.6C465.8,389,454.5,378.9,439.6,378.9L439.6,378.9z"/>
+			</defs>
+			<clipPath id="SVGID_4_">
+				<use xlink:href="#SVGID_3_"  overflow="visible"/>
+			</clipPath>
+			<linearGradient id="SVGID_5_" gradientUnits="userSpaceOnUse" x1="216.4078" y1="383.4662" x2="216.4078" y2="494.2729">
+				<stop  offset="0" style="stop-color:#FEC700"/>
+				<stop  offset="2.983319e-002" style="stop-color:#FECB13"/>
+				<stop  offset="9.277769e-002" style="stop-color:#FDD235"/>
+				<stop  offset="0.1601" style="stop-color:#FDD751"/>
+				<stop  offset="0.2323" style="stop-color:#FCDC67"/>
+				<stop  offset="0.3114" style="stop-color:#FCDF76"/>
+				<stop  offset="0.4031" style="stop-color:#FCE07F"/>
+				<stop  offset="0.536" style="stop-color:#FCE182"/>
+				<stop  offset="0.6433" style="stop-color:#FCDC69"/>
+				<stop  offset="0.8705" style="stop-color:#FDCF28"/>
+				<stop  offset="1" style="stop-color:#FEC700"/>
+			</linearGradient>
+			<path clip-path="url(#SVGID_4_)" fill="url(#SVGID_5_)" d="M464,474.4c0,11.8-10.9,21.3-24.4,21.3H-6.8
+				c-13.5,0-24.4-9.5-24.4-21.3v-72.6c0-11.8,10.9-21.3,24.4-21.3h446.3c13.5,0,24.4,9.5,24.4,21.3V474.4z"/>
+			<path clip-path="url(#SVGID_4_)" fill="#FEC700" d="M439.6,383.6c12,0,20.8,8,20.8,18.5v72.6c0,10.4-8.8,19.4-20.8,19.4H-6.8
+				c-12,0-22.6-9-22.6-19.4v-72.6c0-10.4,10.6-18.5,22.6-18.5h445.4 M439.6,378.9H-6.8c-14.9,0-28,10.2-28,23.2v72.6
+				c0,13,13.1,24.2,28,24.2h446.3c14.9,0,26.2-11.1,26.2-24.2v-72.6C465.8,389,454.5,378.9,439.6,378.9L439.6,378.9z"/>
+		</g>
+		<g>
+			<defs>
+				<path id="SVGID_6_" d="M439.6,378.9H-6.8c-14.9,0-28,10.2-28,23.2v72.6c0,13,13.1,24.2,28,24.2h446.3
+					c14.9,0,26.2-11.1,26.2-24.2v-72.6C465.8,389,454.5,378.9,439.6,378.9L439.6,378.9z"/>
+			</defs>
+			<clipPath id="SVGID_7_">
+				<use xlink:href="#SVGID_6_"  overflow="visible"/>
+			</clipPath>
+		</g>
+	</g>
+</g>
+</svg>

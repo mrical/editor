@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="-49 141 512 162" style="enable-background:new -49 141 512 162;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#SVGID_1_);}
+	.st1{fill:#F1F2F2;}
+	.st2{font-family:'Montserrat-Black';}
+	.st3{font-size:84.754px;}
+	.st4{fill:#F1F2F2;stroke:#FFFFFF;stroke-width:2;stroke-miterlimit:10;}
+</style>
+<g>
+	<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="-53.4975" y1="222.3302" x2="458.6896" y2="222.3302">
+		<stop  offset="0" style="stop-color:#A0000B"/>
+		<stop  offset="5.982934e-002" style="stop-color:#C7000B"/>
+		<stop  offset="9.655420e-002" style="stop-color:#DA000B"/>
+		<stop  offset="0.4493" style="stop-color:#CC000A"/>
+		<stop  offset="0.7613" style="stop-color:#C7000A"/>
+	</linearGradient>
+	<path class="st0" d="M-40,144.7c0,0-8.5-0.4-9,13.6l0.2,128.1c0,0,0.7,13.6,9.9,13.6H71.5H463l-43.6-77.7l43.8-77.7H-40z"/>
+	<text transform="matrix(0.7309 0 0 1 -30.6787 246.8618)" class="st1 st2 st3">SALE!</text>
+	<line class="st4" x1="181.9" y1="163.2" x2="181.9" y2="281.4"/>
+</g>
+</svg>
